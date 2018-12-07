@@ -1,5 +1,7 @@
 //add thank you code here
 
+/*@pjs preload="d2xg0g.jpg";*/
+
 PImage img;
 int X = 350;
 int Y= 150;
